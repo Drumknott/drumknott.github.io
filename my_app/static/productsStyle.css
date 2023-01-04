@@ -1,0 +1,52 @@
+body
+{
+    font-family: calibri;
+
+    background-image: url("https://i.ibb.co/rfS4r6S/Six-Thinking-Hats-1.jpg");
+    background-size: 100%;
+}
+
+#headerBar
+{
+    color: #ffffff;
+    font-family: garamond;
+    background-color: #0a7645;
+    text-align: center;
+}
+
+#footerBar
+{
+    background-color: #0a7645;
+}
+
+.row
+{
+    background-color: #dddddd;
+}
+
+.hovereffect
+{
+    width:100%;
+    height:100%;
+    float:left;
+    position:relative;
+    text-align:center;
+    cursor:default;
+}
+
+.hovereffect img
+{
+    display:block;
+    position:relative;
+    -webkit-transition:all .4s linear;
+    transition:all .4s linear;
+}
+
+.hovereffect:hover img
+{
+    -ms-transform:scale(1.2);
+    -webkit-transform:scale(1.2);
+    transform:scale(1.2);
+}
+
+

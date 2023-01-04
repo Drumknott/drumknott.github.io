@@ -7,3 +7,12 @@ def index(request):
     template = loader.get_template('index.html')
     return HttpResponse(template.render())
 
+
+def products(request):
+    template = loader.get_template('products.html')
+    return HttpResponse(template.render())
+
+
+def about_me(request):
+    template = loader.get_template('aboutMe.html')
+    return HttpResponse(template.render())
