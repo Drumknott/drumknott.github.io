@@ -1,0 +1,53 @@
+body
+{
+    color: white;
+    font-family: calibri;
+    font-size: 120%;
+    text-align: justify;
+    text-justify: inter-word;
+
+    width: 80%;
+    margin: auto;
+
+    background-image: url("https://i.ibb.co/7GwHtYc/code-letters-screen-blur-colorful-lettering-signs-a66mr5vhbfsb8yod.jpg");
+    background-size: 100%
+}
+
+a
+{
+    color: cyan
+}
+
+a:visited
+{
+    color: grey
+}
+
+#titleSection
+{
+    text-align: center
+}
+
+#title
+{
+    font-size: 150%
+}
+
+.background
+{
+    background-color: #2b6e99;
+    opacity: 90%;
+    width: 80%;
+    margin: auto;
+    background-position: center;
+}
+
+.mainBody
+{
+margin-right: 120px;
+margin-left: 120px;
+}
+
+
+
+

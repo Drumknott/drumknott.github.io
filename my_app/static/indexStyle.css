@@ -1,0 +1,37 @@
+h1
+{
+    background: rgb(5,0,87);
+    background: linear-gradient(292deg, rgba(5,0,87,1) 0%, rgba(37,37,179,1) 17%, rgba(0,212,255,1) 100%);
+    margin: 0;
+    padding: 50px;
+    font-family: garamond;
+    text-align: center;
+    color: #ffffff;
+}
+
+h2
+{
+    font-family: garamond;
+    text-align: center;
+    padding: 20px;
+}
+
+body
+{
+    font-family: calibri;
+    margin: 0;
+    background-color: #263064;
+    text-align: justify;
+}
+
+.container
+{
+    background-color: #c7c7c7;
+    text.align: center;
+    margin: 0;
+}
+
+#mainText
+{
+    padding: 60px;
+}
